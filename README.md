@@ -14,6 +14,10 @@ In order for the MongoDB part of this example to work, you need to have MongoDB 
 ```sh
 npm install
 npm start
+
 ```
+
+## apollo for react.js
+npm install react react-dom
 
 The server should now accept requests at http://localhost:8080/graphql
